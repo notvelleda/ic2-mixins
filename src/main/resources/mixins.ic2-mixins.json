@@ -1,0 +1,8 @@
+{
+    "compatibilityLevel": "JAVA_8",
+    "package": "xyz.velleda.ic2mixins.mixins",
+    "refmap": "refmap.ic2-mixins.json",
+    "mixins": ["RecyclerRecipeManager", "TileEntityStandardMachine", "TileEntityMatter"],
+    "client": [],
+    "server": []
+}
